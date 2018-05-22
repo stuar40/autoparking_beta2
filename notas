@@ -56,3 +56,12 @@ definimos las rutass
  		 password: '*Deleonsocgio10',
  		 database: 'autoparking'
      }
+
+
+
+     The following service(s) have been created in your project: mysql.
+
+       Username: autorparking@2018
+       Password: autorparking@2018
+  Database Name: sampledb
+ Connection URL: mysql://mysql:3306/
